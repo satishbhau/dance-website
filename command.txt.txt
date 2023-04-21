@@ -1,0 +1,7 @@
+touch .gitignore
+git init
+git add .
+git commit -m "initial commit"
+git status
+git remote add origin [ssh ley paste]
+git push origin master
